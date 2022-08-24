@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 
 chau
+=======
+hola
+>>>>>>> aitor
